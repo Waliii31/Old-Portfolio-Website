@@ -58,7 +58,7 @@ const About = () => {
         <h1>A Little <br /> About Me</h1>
         <div className="about-me">
           <p>I am a front-end developer currently based in Pakistan. I have been working in web development for the past two years, with a strong focus on front-end technologies. In the past two years, I have fully dedicated myself to enhancing my skills in building user-friendly and interactive web applications</p>
-          <button>DOWNLOAD CV</button>
+          <a href="https://drive.google.com/file/d/1IozOrM8NmzgX5jSNKAQ_kGHeECsk0kpb/view?usp=sharing">DOWNLOAD CV</a>
         </div>
       </div>
       <div className="about-2">
