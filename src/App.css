@@ -133,7 +133,7 @@ body {
   margin-bottom: 1vw;
 }
 
-.about .about-1 .about-me button {
+.about .about-1 .about-me a {
   background-color: var(--color-gray);
   border: 1px solid var(--color-gray);
   padding: 0.7vw 2vw;
@@ -142,7 +142,7 @@ body {
   cursor: pointer;
 }
 
-.about .about-1 .about-me button:hover {
+.about .about-1 .about-me a:hover {
   background-color: var(--color-white);
   transition: 0.5s;
   color: var(--color-gray);
@@ -245,7 +245,7 @@ body {
     margin-bottom: 2vw;
   }
   
-  .about .about-1 .about-me button {
+  .about .about-1 .about-me a {
     padding: 1vw 2.3vw;
     letter-spacing: 0.1vw;
     font-size: 2vw;
